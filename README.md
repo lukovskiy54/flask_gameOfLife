@@ -1,4 +1,4 @@
-# flask_gameOfLife_
+# Game Of Life
 
 Rule of State
 
